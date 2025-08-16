@@ -76,3 +76,109 @@ This portfolio demonstrates my expertise in **prompt engineering**, **AI workflo
 - **$50K annual savings** in operational costs
 
 [**View Code & Documentation →**](./projects/pharmacy-automation/)
+
+---
+
+### [2. Intelligent Email Response System](./projects/email-automation/)
+**Problem:** Customer service team spending 20 hours/week on email classification and routing
+
+**Solution:** Zapier-powered AI workflow for automatic email processing and response generation
+
+**Tech Stack:** `Zapier` • `OpenAI API` • `Python` • `Gmail API` • `Sentiment Analysis`
+
+**Key Features:**
+- Intelligent email classification (urgent, general, technical, billing)
+- Automated sentiment analysis and escalation rules
+- Context-aware response generation with brand voice consistency
+- Real-time routing to appropriate specialists
+- Quality assurance dashboard with human feedback loops
+
+**Impact:**
+- **80% reduction** in manual email handling (20 hrs → 4 hrs/week)
+- **60% faster** average response time
+- **95% classification accuracy** maintained consistently
+- **12% increase** in customer satisfaction scores
+
+[**View Code & Documentation →**](./projects/email-automation/)
+
+---
+
+## Prompt Library
+
+### [Business Communication Prompts](./prompt-library/business-communication/)
+**Use Cases:** Email responses, meeting summaries, report generation
+- **Email Classification & Routing** - 95% accuracy across 12 categories
+- **Meeting Minutes Generation** - Automated action item extraction
+- **Report Summarization** - Executive briefings from technical documents
+- **Customer Communication** - Brand-consistent response templates
+
+### [Data Analysis & Insights Prompts](./prompt-library/data-analysis/)
+**Use Cases:** Report generation, trend analysis, recommendation systems
+- **Financial Report Analysis** - Key metrics extraction and trend identification
+- **Customer Feedback Analysis** - Sentiment categorization and insight generation
+- **Performance Dashboard Creation** - Automated KPI reporting
+- **Predictive Analysis Prompts** - Trend forecasting and recommendation generation
+
+### [Process Automation Prompts](./prompt-library/process-automation/)
+**Use Cases:** Workflow optimization, decision trees, quality assurance
+- **Document Processing** - Structured data extraction with validation
+- **Quality Control Checks** - Automated review and approval workflows
+- **Decision Tree Navigation** - Complex business rule implementation
+- **Error Detection & Correction** - Intelligent anomaly identification
+
+### [Technical Documentation Prompts](./prompt-library/technical-docs/)
+**Use Cases:** Code documentation, API guides, troubleshooting
+- **API Documentation Generation** - Automated endpoint documentation
+- **Code Review & Comments** - Intelligent code analysis and suggestions
+- **Troubleshooting Guides** - Step-by-step problem resolution
+- **Technical Specification Writing** - Requirements to specification conversion
+
+---
+
+## Tools & Frameworks
+
+### Primary Platforms
+- **Zapier** - Workflow automation and system integration
+- **Microsoft Power Automate** - Enterprise process automation
+- **LangChain** - LLM application development framework
+- **OpenAI API** - GPT-4, GPT-3.5, Embeddings, Function Calling
+
+### Development & Integration
+- **Python** - Custom automation scripts and API integrations
+- **FastAPI** - RESTful API development for AI services
+- **Streamlit** - Interactive dashboards and user interfaces
+- **JavaScript** - Frontend automation and webhook handling
+
+---
+
+## Performance Metrics
+
+### Automation Success Rates
+- **Email Classification:** 95% accuracy across 2000+ monthly emails
+- **Document Processing:** 99.2% accuracy in prescription interpretation
+- **Query Resolution:** 85% first-contact resolution in customer support
+- **Response Generation:** 90% approval rate for AI-generated responses
+
+### Efficiency Improvements
+- **Time Savings:** Average 70% reduction in manual processing time
+- **Cost Reduction:** $125K+ annual operational cost savings
+- **Volume Handling:** 500+ daily automated transactions across all systems
+- **Error Reduction:** 85% decrease in human error rates
+
+---
+
+## Contact
+
+**Zuleikha Khan**  
+AI Prompt Engineer & Automation Specialist
+
+**Email:** zuleikhak@gmail.com  
+**LinkedIn:** [Connect with me](https://linkedin.com/in/zuleikha-khan)  
+**GitHub:** [View all projects](https://github.com/zuleikhak)
+
+---
+
+*This portfolio demonstrates practical, production-ready AI automation solutions with measurable business impact. Each project includes full documentation, code examples, and performance metrics.*
+  
+
+
